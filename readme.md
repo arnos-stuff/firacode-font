@@ -8,7 +8,8 @@ I got the Fira Code font from the [Nerd Fonts project](https://github.com/ryanoa
 But the font is also available on the [Fira Code project page](https://github.com/tonsky/FiraCode).
 
 Preview of the font:
-![]:fira-code.svg # Path: fira-code.png
+
+![](./fira-code.svg) # Path: fira-code.png
 
 ## Iosevka
 
@@ -16,7 +17,7 @@ I got Iosevka from the creator's [GitHub page](https://github.com/be5invis/Iosev
 
 Preview of the font:
 
-![]:iosevka.svg # Path: iosevka.png
+![](./iosevka.svg) # Path: iosevka.png
 
 ## Playfair Display
 
