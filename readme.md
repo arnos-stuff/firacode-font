@@ -17,7 +17,7 @@ I got Iosevka from the creator's [GitHub page](https://github.com/be5invis/Iosev
 
 Preview of the font:
 
-![iosevka](./iosevka.svg) # Path: iosevka.png
+![iosevka](./iosevka.svg)
 
 ## Playfair Display
 
