@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'iosevka-aile';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/iosevka-aile.min.css);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/iosevka-curly-slab.min.css);
+}
+
+@font-face {
+    font-family: 'iosevka-curly';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/iosevka-curly.min.css);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/iosevka-etoile.min.css);
+}
+
+@font-face {
+    font-family: 'iosevka-slab';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/iosevka-slab.min.css);
+}
+

@@ -14,6 +14,7 @@ content = []
 open('fonts.css', 'w+').write('')
 
 with open('fonts.css', 'a') as fp:
+    with open('fonts')
     for font in Path(".").glob("**/*.ttf"):
         old_name = font.name
         new_name = font.name.replace(" ", "-")

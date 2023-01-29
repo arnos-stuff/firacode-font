@@ -1,0 +1,1080 @@
+@font-face {
+    font-family: 'iosevka-aile-bold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-bold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-bolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-boldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-boldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-extralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-extralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-heavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-heavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-heavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-heavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-heavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-heavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-italic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-italic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-light';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-light.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-lightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-lightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-lightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-lightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-medium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-medium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-mediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-mediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-mediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-mediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-oblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-oblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-regular';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-regular.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-semibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-semibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-semibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-semibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-semiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-semiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-thin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-thin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-thinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-thinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-aile-thinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-aile/ttf/iosevka-aile-thinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-bold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-bold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-bolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-boldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-boldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extended';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extended.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedbold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedbold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedbolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedbolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedextralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedextralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedheavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedheavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedheavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedheavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedheavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedheavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendeditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendeditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedlight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedlight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedlightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedlightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedlightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedlightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedmedium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedmedium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedmediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedmediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedmediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedmediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedsemibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedsemibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedsemibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedsemibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedsemiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedsemiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedthin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedthin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedthinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedthinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extendedthinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extendedthinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-extralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-extralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-heavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-heavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-heavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-heavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-heavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-heavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-italic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-italic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-light';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-light.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-lightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-lightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-lightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-lightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-medium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-medium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-mediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-mediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-mediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-mediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-oblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-oblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-regular';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-regular.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-semibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-semibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-semibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-semibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-semiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-semiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-thin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-thin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-thinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-thinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-slab-thinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly-slab/ttf/iosevka-curly-slab-thinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-bold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-bold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-bolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-boldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-boldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extended';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extended.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedbold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedbold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedbolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedbolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedextralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedextralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedheavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedheavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedheavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedheavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedheavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedheavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendeditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendeditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedlight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedlight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedlightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedlightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedlightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedlightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedmedium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedmedium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedmediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedmediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedmediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedmediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedsemibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedsemibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedsemibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedsemibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedsemiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedsemiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedthin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedthin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedthinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedthinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extendedthinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extendedthinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-extralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-extralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-heavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-heavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-heavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-heavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-heavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-heavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-italic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-italic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-light';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-light.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-lightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-lightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-lightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-lightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-medium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-medium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-mediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-mediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-mediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-mediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-oblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-oblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-regular';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-regular.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-semibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-semibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-semibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-semibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-semiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-semiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-thin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-thin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-thinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-thinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-curly-thinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-curly/ttf/iosevka-curly-thinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-bold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-bold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-bolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-boldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-boldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-extralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-extralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-heavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-heavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-heavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-heavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-heavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-heavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-italic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-italic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-light';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-light.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-lightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-lightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-lightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-lightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-medium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-medium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-mediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-mediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-mediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-mediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-oblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-oblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-regular';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-regular.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-semibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-semibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-semibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-semibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-semiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-semiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-thin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-thin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-thinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-thinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-etoile-thinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-etoile/ttf/iosevka-etoile-thinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-bold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-bold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-bolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-boldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-boldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extended';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extended.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedbold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedbold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedbolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedbolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedextralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedextralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedheavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedheavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedheavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedheavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedheavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedheavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendeditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendeditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedlight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedlight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedlightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedlightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedlightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedlightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedmedium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedmedium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedmediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedmediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedmediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedmediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedsemibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedsemibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedsemibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedsemibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedsemiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedsemiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedthin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedthin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedthinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedthinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extendedthinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extendedthinoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extrabold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extrabold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extrabolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extrabolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extraboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extraboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extralight';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extralight.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extralightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extralightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-extralightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-extralightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-heavy';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-heavy.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-heavyitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-heavyitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-heavyoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-heavyoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-italic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-italic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-light';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-light.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-lightitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-lightitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-lightoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-lightoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-medium';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-medium.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-mediumitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-mediumitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-mediumoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-mediumoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-oblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-oblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-regular';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-regular.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-semibold';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-semibold.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-semibolditalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-semibolditalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-semiboldoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-semiboldoblique.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-thin';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-thin.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-thinitalic';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-thinitalic.ttf);
+}
+
+@font-face {
+    font-family: 'iosevka-slab-thinoblique';
+    src: url(https://cdnjs.cloudflare.com/ajax/libs/Iosevka/6.0.0/iosevka-slab/ttf/iosevka-slab-thinoblique.ttf);
+}
+
