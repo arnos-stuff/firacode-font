@@ -9,7 +9,7 @@ But the font is also available on the [Fira Code project page](https://github.co
 
 Preview of the font:
 
-![](./fira-code.svg) # Path: fira-code.png
+![fira](./fira.svg)
 
 ## Iosevka
 
@@ -17,7 +17,7 @@ I got Iosevka from the creator's [GitHub page](https://github.com/be5invis/Iosev
 
 Preview of the font:
 
-![](./iosevka.svg) # Path: iosevka.png
+![iosevka](./iosevka.svg) # Path: iosevka.png
 
 ## Playfair Display
 
