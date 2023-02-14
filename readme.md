@@ -1,6 +1,16 @@
 
 # Fonts I like
 
+## Access from anywhere using JSDelivr
+
+For example, the CSS below produces the expected result:
+
+```css
+
+@import url(https://cdn.jsdelivr.net/gh/arnos-stuff/fonts@latest/Mona-Sans.woff2);
+
+```
+
 ## Fira Code
 
 I got the Fira Code font from the [Nerd Fonts project](https://github.com/ryanoasis/nerd-fonts/).
